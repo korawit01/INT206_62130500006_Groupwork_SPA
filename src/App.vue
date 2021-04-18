@@ -1,9 +1,9 @@
 <template>
-  <div id="nav">
+  <div id="nav" class="bg-blue-200" >
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/register">Register</router-link>
   </div>
-  <router-view/>
+  <router-view > </router-view>
 </template>
 
 <style>
