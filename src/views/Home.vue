@@ -1,5 +1,5 @@
 <template>
-  <div class="home mt-40">
+  <div class="home mt-40 ">
     <login v-if="!login" @login-user='validateUsernamePassword'></login>
     <information v-else :info='infoResults' @edited-info='editInfo' @delete-user='deleteId'> </information>
   </div>
