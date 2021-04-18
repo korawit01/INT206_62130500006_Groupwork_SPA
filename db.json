@@ -1,0 +1,28 @@
+{
+  "infoResults": [
+    {
+      "username": "admin",
+      "password": "password",
+      "firstname": "สมชาย",
+      "lastname": "หมายรัก",
+      "nickname": "ฝักทอง",
+      "id": 1
+    },
+    {
+      "username": "Roninza007",
+      "password": "pop123",
+      "firstname": "ประยุทธ์",
+      "lastname": "มุดดินหนี",
+      "nickname": "ค้อม",
+      "id": 2
+    },
+    {
+      "username": "NeedSomeBody",
+      "password": "lnwza555",
+      "firstname": "สมหญิง",
+      "lastname": "ขิงไม่ชอบ",
+      "nickname": "หญิง",
+      "id": 3
+    }
+  ]
+}
